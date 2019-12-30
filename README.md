@@ -1,4 +1,194 @@
+
+# Bluebox
+
+## Índice
+
+* [1. Preámbulo](#1-preámbulo)
+
+* [2. Acerca de la empresa](#2-acerca-de-la-empresa)
+
+* [3. Objetivos del proyecto](#3-objetivos-del-proyecto)
+
+* [4. Problemas identificados con el cliente](#4-problemas-identificados-con-el-cliente)
+
+* [5. Problemas identificados con el usuario](#5-problemas-identificados-con-el-usuario)
+
+* [6. Definición del público objetivo](#6-definición-del-público-objetivo)
+
+* [7. Definición de la solución](#7-definición-de-la-solucion)
+
+* [8. Link Prototipo navegable](#8-link-prototipo-navegable)
+
+* [9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#7-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
+
+* [10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#8-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
+
+***
+
+## 1. Preámbulo
+
+Somos conscientes del mundo en que vivimos y cómo los cambios en la tecnología afectan los distintos comportamientos de las personas, desde la forma como nos comunicamos a la forma como **realizamos compras por internet.**
+
+## 2. Acerca de la empresa
+
+Bluebox es una empresa que comercializa suministros de bar **reutilizables** como copas, vasos, hieleras, etc.
+
+Nos entrevistamos con Diego García Rosell, quien es uno de los dueños de la empresa, a fin de conocer más sobre los productos que ofrecen, quienes son sus clientes y los principales desafíos que enfrentan.
+
+Bluebox una empresa que tiene 15 meses de antigüedad. Inicialmente  ofrecían vasos plásticos alusivos a la participación de Perú en el Mundial de Rusia 2018; Supieron aprovechar la gran acogida que tuvieron estos productos y empezaron a ampliar su oferta, también asociaron sus productos a usarlos en playas, destacando que son de material duradero, fáciles de transportar y que no generan desperdicios.
+
+Su público principal son mujeres de entre 20 a 40 años, que buscan productos **"INSTAGRAMEABLES"** que puedan compartir en sus redes sociales, cabe indicar que estos productos pueden ser personalizados por un costo adicional y se puede agregar frases o nombres de acuerdo a la temática que se desee.
+
+A pesar de la reciente ley del plástico y la tendencia actual de rechazar productos de este material, la empresa no ha sentido que sus ventas se hayan visto afectadas, ya que ellos hacen hincapié en lo reutilizable, en la duración y resistencia del material.
+
+Como plan a futuro, están tratando de desligarse del concepto del consumo solo en playas, ya que no quieren que sus productos se vendan en una sola época del año,
+
+## 3. Objetivos del proyecto
+
+Entender que es lo que los usuarios desean en un proceso de compras online, conocer cuáles son los aspectos que más valoran en una compra online y cuáles son los que vuelven esta actividad algo tedioso.
+
+## 4. Problemas identificados con el cliente
+
+Actualmente Bluebox ofrece sus productos a través de Instagram con una gran acogida, llegando a tener muy buenas ventas pero sienten que tienen un "cuello de botella" ya que debido al crecimiento tan acelerado no se dan abasto para responder todas las consultas con rapidez, por lo que llegan a perder ventas por esa demora.
+
+## 5. Problemas identificados con el usuario
+
+Realizamos entrevistas a 5 usuarios
+
+![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Marketplace.jpg)
+
+y se llego a las siguientes conclusiones:
+
+- Los usuarios entrevistados prefieren hacer las compras online por su celular.
+
+    “Al comprar por internet lo hago a traves de mi celular”
+
+    > Mayra , 33 años, La molina.
+
+- Los usuarios entrevistados valora la rapidez  y fácil uso de la interfaz en un proceso de compra online.
+
+    “Al comprar de forma digital me ahorra tiempo”
+    “Se me hizo muy fácil comprar por internet”.
+
+    > Andrea, 26 años, San juan de lurigancho.
+
+- Los usuarios entrevistados es importante lo estético en un producto y necesitan gran cantidad de fotos para verlo a detalle antes de comprarlo.
+
+    “Valoro algo estético y de moda, si no fuera estético creo que no lo usaría”.
+
+     > Grisele, 25 años, Arequipa.
+
+- Para nuestros usuarios entrevistados es útil tener algún medio de comunicación por si se presentan inconvenientes en su compra.
+
+    “Al comprar por internet me gusta poder contactarme con el vendedor”.
+
+    > Rodrigo, 28 años, La molina.
+
+- Para nuestros usuarios entrevistados  es importante la seguridad y confianza en su compra.
+
+    “Cuando son marcas poco conocidas siento desconfianza a que el producto no me llegue”.
+
+    > Andrea, 26 años, San juan de lurigancho.
+
+## 6. Definición del público objetivo
+
+-  Hombres y mujeres entre 25 a 40 años.
+
+-  Que valoren la estética en un producto.
+
+-  Que gusten de reuniones o fiestas.
+
+-  Que tengan interés en instagram.
+
+### a) User persona
+
+![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/userpersona.png)
+
+### b) Customer Journey Map
+
+![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/customerjourney.png)
+
+## 7. Definición de la solución
+
+Para mejorar la experiencia de compra de los usuarios de Bluebox, es recomendable un e-commerce. El cual brinde toda la información del producto como si estuviera en una tienda física, que el proceso sea practico y fácil de entender, y por ultimo que le brinde al usuario la seguridad de su compra.
+
+## 8. Link Prototipo navegable
+
+Este es un prototipo realizado en la herramienta online [Figma](https://www.figma.com/proto/MhJF1o14rboNgnqrlW635c/BLUEBOX-ALTA-CON-INTERACCI%C3%93N?node-id=2%3A2&scaling=scale-down).
+
+## 9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto
+
+Como parte de nuestra investigación y proceso de desarrollo de soluciones encontramos los siguientes herramientas que nos permitieron entender mejor los problemas.
+
+### Problem statements
+
+- Mariana necesita conocer todos los detalles de un producto para no tener que perder tiempo haciendo consultas.
+- Mariana necesita saber que puede contactarse con el vendedor para sentirse segura ante cualquier evento adverso a la compra de su producto.
+- Mariana necesita realizar compras online en el menor tiempo posible.
+
+### How might we
+
+- HMW mostrar las características de los productos de una manera atractiva para los usuarios?
+- HMW hacer para que el usuario vea un producto tal como lo vería en una tienda física?
+- HMW dar seguridad al usuario de que se podrá contactar con la empresa de una manera rápida y sencilla?
+- HMW generar confianza de que se trata de una empresa seria?
+-HMW  hacer que el proceso de compra sea práctico y fácil de entender?
+- HMW  lograr automatizar el proceso de compra?
+- HMW familiarizar al usuario con la marca?
+
+### What if
+
+- WI a Mariana se le pudiese liberar del tiempo que toma haciendo consultas?
+- WI Mariana nunca tuviera contratiempos en su compra? 
+- WI otras personas podrían darle a Mariana la seguridad de realizar su compra?
+- WI a Mariana pudiera realizar su compra en 5 minutos?
+- WI Mariana pudiese realizar su compra de manera tan simple como si estuviera jugando?
+- WI Mariana tendría todas las características a la mano?
+- WI Mariana recibiera un correo con el catálogo?
+- WI Mariana recibiera un número para hacer su pedido?
+- WI Mariana tendría que recoger el producto en tiendas?
+- WI los familiares o amigos de Mariana pudieran recomendar el producto?
+
+### Priorización
+
+Priorizamos con un feature list utilizando los siguientres criterios: Esencial, bajo costo, alto costo y nice to have.
+
+![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/PRIORIZACION.jpg)
+
+
+## 10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
 # Plataforma de ventas en línea
+   La página de inicio muestra fotos en información de los productos:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Inicio.png)
+
+   La página cuenta con una galería que muestra los productos de forma ordenada y con una breve descripción:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Productos.png)
+
+   Al ingresar al producto, la descripción es más detallada y tiene la opción de realizar la compra:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Productosone.png)
+
+   Da la opción de personalizar tu producto con el serigrafiado:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Serigrafia.png)
+
+   Terminado esto empieza la compra, agregando el lugar de entrega:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Entrega.png)
+
+   Para automatizar la compra online, el pago con tarjeta:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Pago.png)
+
+   Y el resumen de la compra para confirmar el pedido:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Resumen%20de%20entrega.png)
+
+   Por último una ventana que brinde las diferentes opciones de comunicación que tienen con el vendedor:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Contacto.png)
 
 ## Índice
 
@@ -297,99 +487,3 @@ alineación, jerarquía, entre otros.
   tu propia web desde 0.
 * Escribe un post en Medium contando tu proceso de investigación.
 
-# Bluebox
-
-## Índice
-
-* [1. Preámbulo](#1-preámbulo)
-
-* [2. Acerca de la empresa](#2-acerca-de-la-empresa)
-
-* [3. Objetivos del proyecto](#3-objetivos-del-proyecto)
-
-* [4. Problemas identificados con el cliente](#4-problemas-identificados-con-el-cliente)
-
-* [5. Problemas identificados con el usuario](#5-problemas-identificados-con-el-usuario)
-
-* [6. Definición del público objetivo](#6-definición-del-público-objetivo)
-
-* [7. Definición de la solución](#7-definición-de-la-solucion)
-
-* [8. Link Prototipo navegable](#8-link-prototipo-navegable)
-
-* [9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#7-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
-
-* [10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#8-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
-
-***
-
-## 1. Preámbulo
-
-Somos conscientes del mundo en que vivimos y cómo los cambios en la tecnología afectan los distintos comportamientos de las personas, desde la forma como nos comunicamos a la forma como **realizamos compras por internet.**
-
-## 2. Acerca de la empresa
-
-Bluebox es una empresa que comercializa suministros de bar **reutilizables** como copas, vasos, hieleras, etc.
-
-Nos entrevistamos con Diego García Rosell, quien es uno de los dueños de la empresa, a fin de conocer más sobre los productos que ofrecen, quienes son sus clientes y los principales desafíos que enfrentan.
-
-Bluebox una empresa que tiene 15 meses de antigüedad. Inicialmente  ofrecían vasos plásticos alusivos a la participación de Perú en el Mundial de Rusia 2018; Supieron aprovechar la gran acogida que tuvieron estos productos y empezaron a ampliar su oferta, también asociaron sus productos a usarlos en playas, destacando que son de material duradero, fáciles de transportar y que no generan desperdicios.
-
-Su público principal son mujeres de entre 20 a 40 años, que buscan productos **"INSTAGRAMEABLES"** que puedan compartir en sus redes sociales, cabe indicar que estos productos pueden ser personalizados por un costo adicional y se puede agregar frases o nombres de acuerdo a la temática que se desee.
-
-A pesar de la reciente ley del plástico y la tendencia actual de rechazar productos de este material, la empresa no ha sentido que sus ventas se hayan visto afectadas, ya que ellos hacen hincapié en lo reutilizable, en la duración y resistencia del material.
-
-Como plan a futuro, están tratando de desligarse del concepto del consumo solo en playas, ya que no quieren que sus productos se vendan en una sola época del año,
-
-## 3. Objetivos del proyecto
-
-Entender que es lo que los usuarios desean en un proceso de compras online, conocer cuáles son los aspectos que más valoran en una compra online y cuáles son los que vuelven esta actividad algo tedioso.
-
-## 4. Problemas identificados con el cliente
-
-Actualmente Bluebox ofrece sus productos a través de Instagram con una gran acogida, llegando a tener muy buenas ventas pero sienten que tienen un "cuello de botella" ya que debido al crecimiento tan acelerado no se dan abasto para responder todas las consultas con rapidez, por lo que llegan a perder ventas por esa demora.
-
-## 5. Problemas identificados con el usuario
-
-
--  Para comprar productos online necesita tener toda la información clara.
-
--  Tener imágenes que luzcan bien el producto.
-
--  Necesitan seguridad al realizar su compra.
-
--  Quieren realizar el proceso en el menor tiempo posible.
-
--  Desean que el producto tenga un precio que vaya de acuerdo a la calidad del producto.
-
-## 6. Definición del público objetivo
-
--  Hombres y mujeres entre 25 a 40 años.
-
--  Que valoren la estética en un producto.
-
--  Que gusten de reuniones o fiestas.
-
--  Que tengan interés en instagram.
-
-### a) User persona
-
-Mariana es nuestra user persona, una clienta ideal que gustosa adquiriría algún producto de bluebox.
-
-### b) Customer Journey Map
-
-Mariana también tuvo una experiencia de compra actual con Bluebox y este es todo el recorrido de su experiencia.
-
-## 7. Definición de la solución
-
-Para mejorar la experiencia de compra de los usuarios de Bluebox, es recomendable un e-commerce. El cual brinde toda la información del producto como si estuviera en una tienda física, que el proceso sea practico y fácil de entender, y por ultimo que le brinde al usuario la seguridad de su compra.
-
-## 8. Link Prototipo navegable
-
-Este es un prototipo realizado en la herramienta online [Figma](  [https://www.figma.com/](https://www.figma.com/)).
-
-## 9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto
-
-Nuestro objetivo de proyecto era entender que es lo que los usuarios desean en un proceso de compras online, al definir nuestra solución teníamos claros todos los contratiempos y disgustos que un usuario tiene al momento de realizar sus compras. Con estas conclusiones planteadas pensamos un prototipo que permita al usuario ver una galería con información útil del producto, que le permita personalizar su producto como si estuviera en una tienda física, poder realizar el pago en la misma pagina y por último que tenga la seguridad de su compra mostrando todos los medios que tiene para comunicarse con el vendedor.
-
-## 10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
