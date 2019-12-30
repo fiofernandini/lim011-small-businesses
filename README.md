@@ -17,13 +17,11 @@
 
 * [7. Definición de la solución](#7-definición-de-la-solucion)
 
-* [8. Link Prototipo navegable](#8-link-prototipo-navegable)
+* [8. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#8-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
 
-* [9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#9-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
+* [9. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#9-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
 
-* [10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#10-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
-
-* [11. Link para desarrolladores](#11-Link-para-desarrolladores)
+* [10. Links](#10-Links)
 
 ***
 
@@ -114,11 +112,7 @@ y se llego a las siguientes conclusiones:
 
 Para mejorar la experiencia de compra de los usuarios de Bluebox, es recomendable un e-commerce. El cual brinde toda la información del producto como si estuviera en una tienda física, que el proceso sea practico y fácil de entender, y por ultimo que le brinde al usuario la seguridad de su compra.
 
-## 8. Link Prototipo navegable
-
-Este es un prototipo realizado en la herramienta online [Figma](https://www.figma.com/proto/MhJF1o14rboNgnqrlW635c/BLUEBOX-ALTA-CON-INTERACCI%C3%93N?node-id=2%3A2&scaling=scale-down).
-
-## 9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto
+## 8. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto
 
 Como parte de nuestra investigación y proceso de desarrollo de soluciones encontramos los siguientes herramientas que nos permitieron entender mejor los problemas.
 
@@ -158,7 +152,7 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/PRIORIZACION.jpg)
 
 
-## 10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
+## 9. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
 # Plataforma de ventas en línea
    La página de inicio muestra fotos e información de los productos:
 
@@ -196,9 +190,14 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Contacto.png)
 
-   ## 11. Link para desarrolladores
+   ## 10. Links
+
+   [Prototipo Figma](https://www.figma.com/proto/MhJF1o14rboNgnqrlW635c/BLUEBOX-ALTA-CON-INTERACCI%C3%93N?node-id=2%3A2&scaling=scale-down).
 
    [Zeplin](https://app.zeplin.io/project/5e0939efe485ae9701470832/dashboard).
+
+   [Drive](https://drive.google.com/open?id=1sEeH5F2Hlgx7J2zV1DuQsQg_yMvsC1ST).
+
 
 ## Índice
 
