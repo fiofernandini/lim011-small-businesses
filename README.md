@@ -19,9 +19,11 @@
 
 * [8. Link Prototipo navegable](#8-link-prototipo-navegable)
 
-* [9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#7-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
+* [9. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#9-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
 
-* [10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#8-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
+* [10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final](#10-explicacion-de-como-los-contenidos-y-funcionalidades-resuelven-cada-uno-de-las-necesidades-del-usuario-final)
+
+* [11. Link para desarrolladores](#11-Link-para-desarrolladores)
 
 ***
 
@@ -158,7 +160,7 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 
 ## 10. Explicación de como los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final
 # Plataforma de ventas en línea
-   La página de inicio muestra fotos en información de los productos:
+   La página de inicio muestra fotos e información de los productos:
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Inicio.png)
 
@@ -170,7 +172,7 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Productosone.png)
 
-   Da la opción de personalizar tu producto con el serigrafiado:
+   Se brinda la opción de personalizar tu producto con el serigrafiado:
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Serigrafia.png)
 
@@ -186,9 +188,17 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Resumen%20de%20entrega.png)
 
+   Una ventana de confirmación y agradecimiento:
+
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/gracias.png)
+
    Por último una ventana que brinde las diferentes opciones de comunicación que tienen con el vendedor:
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Contacto.png)
+
+   ## 11. Link para desarrolladores
+
+   [Zeplin](https://app.zeplin.io/project/5e0939efe485ae9701470832/dashboard).
 
 ## Índice
 
