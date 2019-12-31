@@ -155,7 +155,7 @@ Priorizamos con un feature list utilizando los siguientres criterios: Esencial, 
 
 ## 9.Prototipado Mediana fidelidad
 
-Teniendo en cuenta nuestro MVP, se procedió a idear soluciones en un prototipo de baja fidelidad.
+Teniendo en cuenta nuestro MVP, se procedió a idear soluciones en un prototipo de mediana fidelidad.
 
 Se creó en una pantalla de inicio en donde se vean las fotos de los influencers o distintas personas utilizando los productos:
 
