@@ -59,7 +59,7 @@ Para poder entender la problemática del caso, se realizó entrevistas a 5 usuar
 
 ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Marketplace.jpg)
 
-Y se llego a las siguientes conclusiones:
+Y se llegó a las siguientes conclusiones:
 
 - Los usuarios entrevistados prefieren hacer las compras online por su celular.
 
@@ -191,7 +191,7 @@ Por último, se creó la página de contacto.
 
 #### Iteración
 
-Se testeó el prototipo de baja fidelidad con 5 personas y se obtuvo el siguiente resultado:
+Se testeó el prototipo de mediana fidelidad con 5 personas y se obtuvo el siguiente resultado:
 
 -Los usuarios necesitaban elegir la cantidad de productos que iban a comprar en la misma página del producto.
 
@@ -245,11 +245,11 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
 
    ## 11. Links
 
-   [Prototipo Figma](https://www.figma.com/proto/MhJF1o14rboNgnqrlW635c/BLUEBOX-ALTA-CON-INTERACCI%C3%93N?node-id=2%3A2&scaling=scale-down).
+   - Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/proto/MhJF1o14rboNgnqrlW635c/BLUEBOX-ALTA-CON-INTERACCI%C3%93N?node-id=2%3A2&scaling=scale-down).
 
-   [Zeplin](https://app.zeplin.io/project/5e0939efe485ae9701470832/dashboard).
+  - Link para desarrolladores [Zeplin](https://app.zeplin.io/project/5e0939efe485ae9701470832/dashboard).
 
-   [Drive](https://drive.google.com/open?id=1sEeH5F2Hlgx7J2zV1DuQsQg_yMvsC1ST).
+   - Carpeta compartida [Drive](https://drive.google.com/open?id=1sEeH5F2Hlgx7J2zV1DuQsQg_yMvsC1ST).
 
 
 ## Índice
