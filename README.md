@@ -112,7 +112,7 @@ Y se llegó a las siguientes conclusiones:
 
 ## 7. Definición de la solución
 
-Para mejorar la experiencia de compra de los usuarios de Bluebox, es recomendable un e-commerce. El cual brinde toda la información y detalle del producto como si estuviera en una tienda física, que el proceso sea practico y fácil de entender, y por ultimo que le brinde al usuario la seguridad de su compra.
+Para mejorar la experiencia de compra de los usuarios de Bluebox, es recomendable un e-commerce. El cual brinde toda la información y detalle del producto como si estuviera en una tienda física, que el proceso sea práctico y fácil de entender, y por último que le brinde al usuario la seguridad de su compra.
 
 ## 8. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto
 
