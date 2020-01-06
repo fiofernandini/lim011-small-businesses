@@ -223,6 +223,8 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Serigrafia.png)
 
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Serigrafiaone.png)
+
    Terminado esto empieza la compra, agregando el lugar de entrega:
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Entrega.png)
@@ -245,9 +247,9 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
 
    ## 11. Links
 
-   - Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/proto/GJX5FPuMzbLqEHV8fNDI8e/Bluebox-alta-para-editar?node-id=2%3A2&scaling=scale-down).
+   - Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/proto/GJX5FPuMzbLqEHV8fNDI8e/BLUEBOX-ALTA-FINAL?node-id=2%3A2&scaling=scale-down).
 
-  - Link para desarrolladores [Zeplin](https://app.zeplin.io/project/5e0939efe485ae9701470832/dashboard).
+  - Link para desarrolladores [Zeplin](https://zpl.io/a8vYrlE).
 
    - Carpeta compartida [Drive](https://drive.google.com/open?id=1sEeH5F2Hlgx7J2zV1DuQsQg_yMvsC1ST).
 
