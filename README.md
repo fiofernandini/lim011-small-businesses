@@ -247,7 +247,7 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
 
    ## 11. Links
 
-   - Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/proto/GJX5FPuMzbLqEHV8fNDI8e/BLUEBOX-ALTA-FINAL?node-id=2%3A2&scaling=scale-down).
+   - Prototipo navegable de alta fidelidad [Figma](https://www.figma.com/proto/cA5GLu8tmocLl9fgdHhGxv/BLUEBOX-FINAL?node-id=2%3A2&scaling=scale-down).
 
   - Link para desarrolladores [Zeplin](https://zpl.io/a8vYrlE).
 
