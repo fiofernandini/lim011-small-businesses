@@ -215,11 +215,13 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Productos.png)
 
-   Al ingresar al producto, la descripción es más detallada (podrá ver el tamaño, peso y materiral del producto) y tiene la opción de realizar la compra.
+   Al ingresar al producto, la descripción es más detallada (podrá ver el tamaño, peso y materiral del producto) y tiene la opción de ponerlo en el carrito de compra.
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Productosone.png)
 
-   Se brinda la opción de personalizar tu producto con el serigrafiado y puede escoger el tipo, tamaño y color de la letra.
+   ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/CARRITO.png)
+
+   Se brinda la opción de personalizar el producto con el serigrafiado y se puede escoger el tipo, tamaño y color de la letra.
 
    ![](https://github.com/fiofernandini/lim011-small-businesses/blob/master/imagenes/Serigrafia.png)
 
