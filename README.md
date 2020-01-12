@@ -256,6 +256,8 @@ Teniendo en cuenta ello, se procedió a realizar el prototipo de alta fidelidad.
   - Carpeta compartida [Drive](https://drive.google.com/open?id=1sEeH5F2Hlgx7J2zV1DuQsQg_yMvsC1ST).
   
   - Video en [Loom](https://www.loom.com/share/3375ea56b43244ab81abcce0bc821b7e).
+  
+  - Publicación en [Medium](https://medium.com/@fiofernandini12/ux-case-study-bluebox-88302a7475a8?source=friends_link&sk=34b7ed01c2660e64092285c138ae696c).
 
 
 ## Índice
